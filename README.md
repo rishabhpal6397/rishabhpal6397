@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Rishabh Pal
 
-<img src="https://github.com/brown9804/github-visitor-counter/ghpvc?username=GITHUB-USERNAME&label=Profile%20views&color=ce9927&style=flat" alt="GITHUB-USERNAME" />
+<img src="https://github.com/brown9804/github-visitor-counter/ghpvc?username=rishabhpal6397&label=Profile%20views&color=ce9927&style=flat" alt="GITHUB-USERNAME" />
 
 ## 🚀 About Me
 
